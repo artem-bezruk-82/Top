@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_homeWork_task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11_homeWork_task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11_homeWork_task1-Debug-dd5575f02428a43471f9.json",
+					"name" : "11_homeWork_task1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/artembezruk/CLionProjects/cpp/itStep/oop/Lesson_11/11_homeWork/11_homeWork_task1/cmake-build-debug",
+		"source" : "/Users/artembezruk/CLionProjects/cpp/itStep/oop/Lesson_11/11_homeWork/11_homeWork_task1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
